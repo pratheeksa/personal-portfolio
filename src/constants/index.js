@@ -1131,7 +1131,7 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: AiFillLinkedin,
-    link: "https://www.linkedin.com/in/pratheek-",
+    link: "www.linkedin.com/in/pratheek-s-angadi-9184a0387",
   },
   {
     id: "social-media-2",
