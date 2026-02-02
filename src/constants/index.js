@@ -91,9 +91,9 @@ import { RiGeminiFill } from "react-icons/ri";
 
 export const resumeLink =
   "https://drive.google.com/file/d/1vkxyMDB5_KpMwt4QXFgT2aqdRizr8Czh/view?usp=sharing";
-export const repoLink = "https://github.com/Pratheek S Angadi-/personal-portfolio";
+export const repoLink = "https://github.com/Pratheek-/personal-portfolio";
 
-export const callToAction = "https://www.linkedin.com/in/Pratheek S Angadi-";
+export const callToAction = "https://www.linkedin.com/in/Pratheek-";
 
 export const navLinks = [
   {
@@ -159,7 +159,7 @@ export const achievements = [
     content2: "Polkadot's 1st Runner Up, Lit Protocol's 2nd Runner Up",
     content3: "Coinbase Pool Prize, Base Top 10",
     article:
-      "https://www.linkedin.com/posts/Pratheek S Angadi-_super-stoked-to-announce-that-our-team-emerged-activity-7274735259621961729-tkq4?utm_source=share&utm_medium=member_desktop",
+      "https://www.linkedin.com/posts/Pratheek-_super-stoked-to-announce-that-our-team-emerged-activity-7274735259621961729-tkq4?utm_source=share&utm_medium=member_desktop",
     project: "https://devfolio.co/projects/khoj-3336",
     youtube:
       "https://www.youtube.com/live/qJ4OCtnvjUY?si=VkcnHEdwJTEEDlMg&t=4718",
@@ -187,7 +187,7 @@ export const achievements = [
     content2: "",
     content3: "",
     article:
-      "https://www.linkedin.com/posts/Pratheek S Angadi-_hackathon-winners-web3-activity-7048340759116214272-eJvo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADOa76QB7zljgX8NK4xVSZXi0Z49ETMeC-g",
+      "https://www.linkedin.com/posts/Pratheek-_hackathon-winners-web3-activity-7048340759116214272-eJvo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADOa76QB7zljgX8NK4xVSZXi0Z49ETMeC-g",
     github: "https://github.com/pranav2305/GreenTrust",
   },
   {
@@ -240,7 +240,7 @@ export const achievements = [
     content2: "",
     content3: "",
     article:
-      "https://www.linkedin.com/posts/Pratheek S Angadi-_happy-to-share-that-comicifyai-emerged-as-activity-7078790186435833856-88fh",
+      "https://www.linkedin.com/posts/Pratheek-_happy-to-share-that-comicifyai-emerged-as-activity-7078790186435833856-88fh",
   },
   {
     id: "a-9",
@@ -252,7 +252,7 @@ export const achievements = [
     content2: "",
     content3: "",
     youtube: "https://www.youtube.com/watch?v=X2473En3h_o&t=5278s",
-    project: "https://Pratheek S Angadi.netlify.app/",
+    project: "https://Pratheek.netlify.app/",
   },
   {
     id: "a-10",
@@ -593,7 +593,7 @@ export const projects = [
   {
     id: "project-1",
     title: "Khoj",
-    github: "https://github.com/Pratheek S Angadi-/Khoj",
+    github: "https://github.com/Pratheek-/Khoj",
     link: "https://playkhoj.com/",
     image: khoj,
     content:
@@ -639,7 +639,7 @@ export const projects = [
   {
     id: "project-2",
     title: "Hackathon Curation AI Agent",
-    github: "https://github.com/Pratheek S Angadi-/hackathon-curation-agent",
+    github: "https://github.com/Pratheek-/hackathon-curation-agent",
     image: hackathon_curation_agent,
     content:
       "An intelligent agent that automatically curates hackathons from your email newsletters, evaluates them using AI, and posts the best ones to Twitter.",
@@ -715,7 +715,7 @@ export const projects = [
   {
     id: "project-4",
     title: "Polkadot Dev CLI",
-    github: "https://github.com/Pratheek S Angadi-/polkadot-dev-cli",
+    github: "https://github.com/Pratheek-/polkadot-dev-cli",
     link: "https://crates.io/crates/polkadot-dev-cli",
     image: polkadot_dev_cli,
     content:
@@ -757,7 +757,7 @@ export const projects = [
   {
     id: "project-6",
     title: "GreenTrust",
-    github: "https://github.com/Pratheek S Angadi-/GreenTrust",
+    github: "https://github.com/Pratheek-/GreenTrust",
     link: "https://green-trust-fantom.netlify.app/",
     image: greentrust,
     content:
@@ -845,7 +845,7 @@ export const projects = [
     id: "project-8",
     title: "Samsotech Table Management System",
     github: "",
-    link: "https://www.linkedin.com/posts/Pratheek S Angadi-_technologysolutions-softwaredevelopment-technology-activity-6994915645066809344-WnMY?utm_source=share&utm_medium=member_desktop",
+    link: "https://www.linkedin.com/posts/Pratheek-_technologysolutions-softwaredevelopment-technology-activity-6994915645066809344-WnMY?utm_source=share&utm_medium=member_desktop",
     image: placeicon,
     content:
       "Restaurant, Place, Table and realtime Reservation Management with Multi-Tenant Architecture, RBAC, SMS and Email integration for Samsotech International",
@@ -905,8 +905,8 @@ export const projects = [
   {
     id: "project-10",
     title: "Portfolio",
-    github: "https://github.com/Pratheek S Angadi-/personal-portfolio",
-    link: "https://Pratheek S Angadi.netlify.app/",
+    github: "https://github.com/Pratheek-/personal-portfolio",
+    link: "https://Pratheek.netlify.app/",
     image: portfolio,
     content: "Open source developer portfolio template with modern UI/UX. 140+ stars on GitHub.",
     stack: [
@@ -930,7 +930,7 @@ export const projects = [
   {
     id: "project-11",
     title: "Kosh SDK",
-    github: "https://github.com/Pratheek S Angadi-/kosh-sdk",
+    github: "https://github.com/Pratheek-/kosh-sdk",
     link: "https://ethglobal.com/showcase/kosh-hk3mp",
     image: kosh,
     content:
@@ -1131,34 +1131,34 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: AiFillLinkedin,
-    link: "https://www.linkedin.com/in/Pratheek S Angadi-",
+    link: "https://www.linkedin.com/in/Pratheek-",
   },
   {
     id: "social-media-2",
     icon: AiFillGithub,
-    link: "https://www.github.com/Pratheek S Angadi-",
+    link: "https://www.github.com/Pratheek-",
   },
   {
     id: "social-media-3",
     icon: AiFillMail,
-    link: "mailto:work.Pratheek S Angadi@gmail.com",
+    link: "mailto:work.Pratheek@gmail.com",
   },
   {
     id: "social-media-4",
     icon: AiOutlineTwitter,
-    link: "https://www.twitter.com/Pratheek S Angadi_",
+    link: "https://www.twitter.com/Pratheek_",
   },
   {
     id: "social-media-5",
     icon: AiFillInstagram,
-    link: "https://www.instagram.com/Pratheek S Angadi_",
+    link: "https://www.instagram.com/Pratheek_",
   },
 ];
 
 // Your professional summary
 export const aboutMe = {
-  name: " Pratheek S Angadi",
-  githubUsername: "Pratheek S Angadi-",
+  name: " Pratheek",
+  githubUsername: "Pratheek-",
   tagLine:
     "MTS @ Oracle | 12x Hackathon Winner 🏆 | ETHIndia'22,24 Winner | NITK'24 | PBA-5",
   intro:

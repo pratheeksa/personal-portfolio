@@ -1,6 +1,6 @@
 import styles from "../style";
 import { motion } from "framer-motion";
-import { Pratheek S Angadi } from "../assets";
+import { Pratheek } from "../assets";
 
 const Loading = () => {
   return (
@@ -15,7 +15,7 @@ const Loading = () => {
         ease: [0.25, 0.1, 0.25, 1.0],
       }}
     >
-      <img src={Pratheek S Angadi} alt=" Pratheek S Angadi" className="w-[80px] h-[80px]" />
+      <img src={Pratheek} alt=" Pratheek" className="w-[80px] h-[80px]" />
     </motion.div>
   );
 };
