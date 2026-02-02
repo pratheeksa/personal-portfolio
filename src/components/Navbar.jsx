@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { close, Pratheek, menu } from "../assets";
+import { close, pratheek, menu } from "../assets";
 import { navLinks } from "../constants";
 import { scrollToSection } from "../lib/helperFunctions";
 import { motion } from "framer-motion";
@@ -33,8 +33,8 @@ const Navbar = () => {
       {/* Logo */}
       <a href="#home">
         <img
-          src={Pratheek}
-          alt=" Pratheek"
+          src={pratheek}
+          alt=" pratheek"
           className="w-[80px] h-[80px]"
         />
       </a>

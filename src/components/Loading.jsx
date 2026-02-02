@@ -1,6 +1,6 @@
 import styles from "../style";
 import { motion } from "framer-motion";
-import { Pratheek } from "../assets";
+import { pratheek } from "../assets";
 
 const Loading = () => {
   return (
@@ -15,7 +15,7 @@ const Loading = () => {
         ease: [0.25, 0.1, 0.25, 1.0],
       }}
     >
-      <img src={Pratheek} alt=" Pratheek" className="w-[80px] h-[80px]" />
+      <img src={pratheek} alt=" pratheek" className="w-[80px] h-[80px]" />
     </motion.div>
   );
 };
