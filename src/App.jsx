@@ -6,7 +6,7 @@ import {
   Navbar,
   Hero,
   Education,
-  //SkillsAndExperience,
+  SkillsAndExperience,
   ExtraCurricular,
   Footer,
   OpenSource,
