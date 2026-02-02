@@ -1,4 +1,4 @@
-import parthmittal from "./parth.svg";
+import pratheek from "./.svg";
 import profilePic from "./profile-pic.jpg";
 import menu from "./menu.svg";
 import close from "./close.svg";
@@ -52,7 +52,7 @@ export {
   genesis,
   portfolio,
   cdc,
-  parthmittal,
+  pratheek,
   profilePic,
   chargeswap,
   placeicon,
