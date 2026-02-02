@@ -1,5 +1,5 @@
 import pratheek from "./pratheek.svg";
-import profilePic from "./profile-pic.jpg";
+import profilePic from "./profile-pic.svg";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import arrowUp from "./arrow-up.svg";
