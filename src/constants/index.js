@@ -93,7 +93,7 @@ export const resumeLink =
   "https://drive.google.com/file/d/1vkxyMDB5_KpMwt4QXFgT2aqdRizr8Czh/view?usp=sharing";
 export const repoLink = "https://github.com/pratheek-/personal-portfolio";
 
-export const callToAction = "https://www.linkedin.com/in/pratheek-";
+export const callToAction = "www.linkedin.com/in/pratheek-s-angadi-9184a0387";
 
 export const navLinks = [
   {
