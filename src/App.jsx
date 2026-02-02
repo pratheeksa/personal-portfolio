@@ -3,17 +3,17 @@ import { motion, AnimatePresence } from "framer-motion";
 import styles from "./style";
 
 import {
-  Navbar,
-  Hero,
-  Education,
-  SkillsAndExperience,
-  ExtraCurricular,
-  Footer,
-  OpenSource,
-  Projects,
-  BlogPosts,
-  Loading,
-  Achievements,
+  //Navbar,
+  //Hero,
+  //Education,
+  //SkillsAndExperience,
+  //ExtraCurricular,
+  //Footer,
+  //OpenSource,
+  //Projects,
+  //BlogPosts,
+  //Loading,
+  //Achievements,
 } from "./components";
 
 const App = () => {
