@@ -1,4 +1,4 @@
-import pratheek from "./pratheek.svg";
+import Pratheek S Angadi from "./Pratheek S Angadi.svg";
 import profilePic from "./profile-pic.jpg";
 import menu from "./menu.svg";
 import close from "./close.svg";
@@ -52,7 +52,7 @@ export {
   genesis,
   portfolio,
   cdc,
-  pratheek,
+  Pratheek S Angadi,
   profilePic,
   chargeswap,
   placeicon,
