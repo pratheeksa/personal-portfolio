@@ -1,4 +1,4 @@
-import pratheek from "./.svg";
+import pratheek from "./pratheek.svg";
 import profilePic from "./profile-pic.jpg";
 import menu from "./menu.svg";
 import close from "./close.svg";
