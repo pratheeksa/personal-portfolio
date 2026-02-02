@@ -54,7 +54,7 @@ const App = () => {
               className={`bg-primary ${styles.flexCenter} ${styles.paddingX}`}
             >
               <div className={`${styles.boxWidth}`}>
-                <SkillsAndExperience />
+                {/* <SkillsAndExperience /> */}
                 <Education />
               </div>
             </div>
@@ -63,10 +63,10 @@ const App = () => {
               className={`bg-primary ${styles.flexCenter} ${styles.paddingX}`}
             >
               <div className={`${styles.boxWidth}`}>
-                <Projects />
-                <BlogPosts enabled={false} />
-                <OpenSource />
-                <ExtraCurricular />
+                {/* <Projects /> */}
+                {/* <BlogPosts enabled={false} /> */}
+                {/* <OpenSource /> */}
+                {/* <ExtraCurricular /> */}
               </div>
             </div>
             <Footer />
